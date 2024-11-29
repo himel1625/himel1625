@@ -21,6 +21,9 @@ If given the chance, I'm eager to share what I've learned and continue growing i
 
 Currently, I'm diving deep into the world of Next.js, exploring its capabilities to build fast and scalable web applications.
 
+<h3 align="left">Languages and Tools:</h3>
+
+ <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,git,github,tailwind,bootstrap,bash,figma,postman">
 
 ## Get in Touch
 
