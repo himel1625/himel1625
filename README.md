@@ -15,20 +15,32 @@ Assalamu Alaikum! I'm Himel Mia, a Frontend Web Developer with a passion for cra
 ---
 
 ## About Me
+```javascript
+type Skill = "HTML" | "CSS" | "JavaScript" | "React ⚛️" | "Next.js 🔥";
+type Hobby = "Coding 💻" | "Explore📈" | "Continuous Learning 📚";
+type Focus = "Front-End Development 🌐" | "Full-Stack Aspiration 🚀";
 
-From a childhood fascination with computers to a deep passion for coding, my journey into technology has been driven by curiosity and dedication. Although I didn't pursue a formal education in computer science, I ventured into web development in December 2023, teaching myself through resources like Google, YouTube, and Jhankar Mahbub’s Complete Web Development Course by Programming Hero. Every challenge and success along the way has fueled my enthusiasm and determination.
+interface Profile<T extends string, U extends string[]>{
+  location: string;
+  focus: Focus;
+  skills: Skill[];
+  funFact: string;
+  reachMe: string;
+}
 
-As a front-end developer, I’ve specialized in HTML, CSS, JavaScript, React, and Next.js. I’m committed to continuous growth, with the clear goal of expanding my expertise to become a full-stack developer.
+const rokib: Profile<Focus, Skill[]> = {
+  location: "Bangladesh 🇧🇩 - Innovating in the tech world",
+  focus: "Front-End Development 🌐",
+  skills: ["HTML", "CSS", "JavaScript", "React ⚛️", "Next.js 🔥"],
+  funFact: "Self-taught coder with a passion for tech and problem-solving 🤓",
+  reachMe: "Let's collaborate: himelmia1625@gmail.com",
+};
 
-I’m now eager to step into the professional world, where I can apply my skills to real-world projects, drive innovation, and contribute to meaningful solutions. My commitment to excellence, problem-solving mindset, and passion for learning position me to make a significant impact in the dynamic tech landscape.
-
-I believe in the power of collaboration and knowledge sharing. Let’s connect, innovate, and code the future together! 
-
+```
 <h3 align="left">Languages & Tools:</h3>
 
-<div align="center">
- <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,git,github,tailwind,bootstrap,postman">
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,tailwind,vscode&perline=6" /> </div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
 </div>
