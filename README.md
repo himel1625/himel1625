@@ -39,7 +39,7 @@ const Himel: Profile<Focus, Skill[]> = {
 ```
 <h3 align="left">Languages & Tools:</h3>
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,tailwind,vscode&perline=6" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,tailwind,redux&perline=6" /> </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
@@ -51,15 +51,8 @@ const Himel: Profile<Focus, Skill[]> = {
 
 ---
 
-## Skills
+## Soft-Skills
 
-- Front-End Skills: HTML5, CSS3
-- Tailwind CSS & Bootstrap Framework(MUI)
-- JavaScript
-- React.js
-- Next.js
-- Responsive Webdesign
-- Version Control Systems: Git, Github
 - Team Collaboration
 - Active Listening
 - Multitasking Abilities
@@ -68,7 +61,7 @@ const Himel: Profile<Focus, Skill[]> = {
 - Excellent Communication
 - Remote Support
 - Basic Networking
-
+- windows
 
 ---
 
