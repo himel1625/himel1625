@@ -1,5 +1,12 @@
 # 👋 Hi, I'm **Himel Mia**  
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Let's Code The Future Together!+%7C++%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
+</div>
+
 ## "Let's Code The Future Together!"
 Assalamu Alaikum! I'm Himel Mia, a Frontend Web Developer with a passion for crafting delightful user experiences."Let's Code The Future Together!"
 
@@ -17,9 +24,14 @@ I’m now eager to step into the professional world, where I can apply my skills
 
 I believe in the power of collaboration and knowledge sharing. Let’s connect, innovate, and code the future together! 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 
- <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,git,github,tailwind,bootstrap,bash,figma,postman">
+<div align="center">
+ <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,git,github,tailwind,bootstrap,postman">
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
+</div>
 
 ## Get in Touch
 
@@ -30,7 +42,7 @@ I believe in the power of collaboration and knowledge sharing. Let’s connect, 
 ## Skills
 
 - Front-End Skills: HTML5, CSS3
-- Tailwind CSS & Bootstrap Framework
+- Tailwind CSS & Bootstrap Framework(MUI)
 - JavaScript
 - React.js
 - Next.js
