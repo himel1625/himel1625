@@ -28,7 +28,7 @@ interface Profile<T extends string, U extends string[]>{
   reachMe: string;
 }
 
-const rokib: Profile<Focus, Skill[]> = {
+const Himel: Profile<Focus, Skill[]> = {
   location: "Bangladesh 🇧🇩 - Innovating in the tech world",
   focus: "Front-End Development 🌐",
   skills: ["HTML", "CSS", "JavaScript", "React ⚛️", "Next.js 🔥"],
