@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Himel Mia**  
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Let's Code The Future Together!+%7C++%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Front-End+Developer+%F0%9F%9A%80;Let's Code The Future Together!+%7C++%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
@@ -51,17 +51,17 @@ const Himel: Profile<Focus, Skill[]> = {
 
 ---
 
-## Soft-Skills
+## 🛠️ Soft-Skills
 
-- Team Collaboration
-- Active Listening
-- Multitasking Abilities
-- Time Management
-- Problem-Solving Skills
-- Excellent Communication
-- Remote Support
-- Basic Networking
-- windows
+- 🤝 Team Collaboration
+- 👂 Active Listening
+- ⚡ Multitasking Abilities
+- ⏱️ Time Management
+- 🧩 Problem-Solving Skills
+- 💬 Excellent Communication
+- 🌐 Remote Support
+- 🔌 Basic Networking
+- 🖥️ windows
 
 ---
 
