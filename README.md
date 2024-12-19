@@ -72,6 +72,8 @@ const Himel: Profile<Focus, Skill[]> = {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himel1625&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=himel1625&theme=radical)  
 
+
 ---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
